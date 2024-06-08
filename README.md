@@ -13,3 +13,13 @@ https://developers.google.com/workspace/chat/api/reference/rest/v1/spaces/patch
 https://developers.google.com/workspace/chat/api/reference/rest/v1/spaces/patch#query-parameters
 
 
+You can apply for the Developer Preview Program here: 
+https://developers.google.com/workspace/preview
+
+
+Don't forget to add the prerequsities listed here:
+
+https://developers.google.com/workspace/chat/update-spaces
+
+
+
